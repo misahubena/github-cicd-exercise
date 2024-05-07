@@ -22,4 +22,4 @@ jobs:
         - uses: actions/upload-artifact@v4
           with:
             name: html-report
-            path: ./task_a/report.html
+            path: ./report.html
